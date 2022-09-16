@@ -1,0 +1,62 @@
+
+skeleton.png
+size: 569,2122
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 244
+  size: 370, 678
+  orig: 588, 732
+  offset: 74, 40
+  index: -1
+head
+  rotate: true
+  xy: 2, 924
+  size: 279, 379
+  orig: 471, 435
+  offset: 96, 34
+  index: -1
+kama1
+  rotate: true
+  xy: 2, 23
+  size: 219, 322
+  orig: 512, 512
+  offset: 129, 107
+  index: -1
+lefthand
+  rotate: false
+  xy: 374, 2
+  size: 178, 593
+  orig: 336, 747
+  offset: 63, 88
+  index: -1
+lefthfoot
+  rotate: true
+  xy: 2, 1940
+  size: 180, 565
+  orig: 276, 630
+  offset: 0, 34
+  index: -1
+pipe
+  rotate: true
+  xy: 2, 1205
+  size: 348, 395
+  orig: 512, 512
+  offset: 69, 53
+  index: -1
+rightfoot
+  rotate: false
+  xy: 383, 597
+  size: 184, 606
+  orig: 351, 657
+  offset: 56, 25
+  index: -1
+righthand
+  rotate: true
+  xy: 2, 1555
+  size: 383, 561
+  orig: 564, 627
+  offset: 21, 56
+  index: -1

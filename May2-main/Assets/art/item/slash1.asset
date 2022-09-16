@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2991cd095c3138b42bfed693426c870b, type: 3}
+  m_Name: slash1
+  m_EditorClassIdentifier: 
+  kindofItem: 0
+  icon: {fileID: 21300000, guid: 6e588f7a2e312584b8502db775a40a20, type: 3}
+  Itemname: slash1
+  information: "\u5927\u578B\u306E\u938C\u3002\u30B5\u30A4\u30BA\u306E\u5272\u306B\u8EFD\u91CF\u306E\u305F\u3081\u3001\u9023\u7D9A\u653B\u6483\u304C\u53EF\u80FD"
+  groundeffect: {fileID: 2192677369059963100, guid: 9643b97d9d78fd74788dada57b34e27b,
+    type: 3}
+  aireffect: {fileID: 8280289113737112449, guid: c5e18c9cfdb2e134d9f6feaa409371e9,
+    type: 3}
+  itemlevel: 1
+  statenames:
+  - slash1
+  - slash2
+  - slash4
+  items:
+  - level: 1
+    damage: 1
+    SP: 4
+    effects: {fileID: 0}
+    icons: {fileID: 21300000, guid: 7dd1d699d3252724fb9ec28acf1c844a, type: 3}
+    informations: 111
+  - level: 2
+    damage: 2
+    SP: 0
+    effects: {fileID: 0}
+    icons: {fileID: 21300000, guid: 8701c5789504b04418da15bd68a6e9cc, type: 3}
+    informations: 222
+  - level: 3
+    damage: 3
+    SP: 0
+    effects: {fileID: 0}
+    icons: {fileID: 21300000, guid: cea7706c12177164397373275f873b54, type: 3}
+    informations: 333
+  soundsource: {fileID: 0}
+  nowlevel: 1

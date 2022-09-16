@@ -1,0 +1,76 @@
+
+skeleton.png
+size: 3847,971
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 1084, 26
+  size: 943, 1084
+  orig: 998, 1184
+  offset: 26, 81
+  index: -1
+body2
+  rotate: true
+  xy: 2, 7
+  size: 962, 1080
+  orig: 1024, 1140
+  offset: 1, 46
+  index: -1
+head
+  rotate: true
+  xy: 2615, 2
+  size: 759, 380
+  orig: 842, 490
+  offset: 52, 76
+  index: -1
+katana1
+  rotate: false
+  xy: 2170, 763
+  size: 1622, 206
+  orig: 1664, 300
+  offset: 21, 56
+  index: -1
+leftfhand
+  rotate: false
+  xy: 2997, 69
+  size: 246, 692
+  orig: 297, 769
+  offset: 22, 46
+  index: -1
+leftfoot
+  rotate: true
+  xy: 3245, 470
+  size: 291, 582
+  orig: 453, 606
+  offset: 27, 3
+  index: -1
+leftshold
+  rotate: true
+  xy: 3552, 12
+  size: 199, 193
+  orig: 330, 219
+  offset: 63, 17
+  index: -1
+rightfoot
+  rotate: true
+  xy: 3245, 213
+  size: 255, 600
+  orig: 374, 645
+  offset: 15, 20
+  index: -1
+righthand
+  rotate: false
+  xy: 2170, 109
+  size: 443, 652
+  orig: 609, 775
+  offset: 63, 73
+  index: -1
+rightshold
+  rotate: false
+  xy: 3245, 36
+  size: 305, 175
+  orig: 441, 336
+  offset: 53, 79
+  index: -1

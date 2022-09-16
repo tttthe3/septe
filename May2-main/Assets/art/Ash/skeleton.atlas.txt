@@ -1,0 +1,62 @@
+
+skeleton.png
+size: 3868,425
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+three
+  rotate: true
+  xy: 3576, 107
+  size: 316, 290
+  orig: 512, 512
+  offset: 101, 53
+  index: -1
+コンポ 1_00008
+  rotate: false
+  xy: 3237, 10
+  size: 337, 413
+  orig: 1024, 1024
+  offset: 352, 485
+  index: -1
+コンポ 1_00009
+  rotate: true
+  xy: 2745, 50
+  size: 373, 490
+  orig: 1024, 1024
+  offset: 330, 478
+  index: -1
+コンポ 1_00010
+  rotate: true
+  xy: 1100, 23
+  size: 400, 540
+  orig: 1024, 1024
+  offset: 307, 484
+  index: -1
+コンポ 1_00011
+  rotate: true
+  xy: 2193, 44
+  size: 379, 550
+  orig: 1024, 1024
+  offset: 317, 474
+  index: -1
+コンポ 1_00012
+  rotate: true
+  xy: 1642, 40
+  size: 383, 549
+  orig: 1024, 1024
+  offset: 319, 475
+  index: -1
+コンポ 1_00013
+  rotate: true
+  xy: 2, 2
+  size: 421, 548
+  orig: 1024, 1024
+  offset: 300, 476
+  index: -1
+コンポ 1_00014
+  rotate: true
+  xy: 552, 12
+  size: 411, 546
+  orig: 1024, 1024
+  offset: 320, 478
+  index: -1

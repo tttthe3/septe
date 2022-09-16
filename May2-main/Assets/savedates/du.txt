@@ -1,0 +1,2 @@
+{"Itemstate":{},"currenhealth":15.0,"maxhealth":15.0,"restSpoint":0,"loadscene":null,"savepoint":null}
+{"Itemstate":{},"currenhealth":15.0,"maxhealth":15.0,"restSpoint":0,"loadscene":null,"savepoint":null}

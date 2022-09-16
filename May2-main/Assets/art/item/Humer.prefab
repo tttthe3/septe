@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1293240250652993069
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1027020892991521105}
+  - component: {fileID: 739786849042417299}
+  m_Layer: 0
+  m_Name: Humer
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1027020892991521105
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1293240250652993069}
+  m_LocalRotation: {x: -0.7071068, y: -0, z: -0, w: 0.7071067}
+  m_LocalPosition: {x: -586.884, y: -18.6, z: 0}
+  m_LocalScale: {x: 0.85, y: 1.869999, z: 0.359649}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &739786849042417299
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1293240250652993069}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0a7595d552f978840a2cd26ea1c00a51, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  set: 2
+  Weapons: []
+  WeaponName: Gumer
+  Slash: {fileID: 0}
+  lance: {fileID: 0}
+  Humer: {fileID: 0}
+  now: 0
+  firsttimer: 0.25
+  secondtimer: 0.18
+  thirdtimer: 0.12
+  bullet: {fileID: 8729245284646244548, guid: 5b3383c4b14d5d14f9e2501fb6039683, type: 3}
+  chargetime: 0.24
